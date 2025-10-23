@@ -1,6 +1,9 @@
 ![title no fog clear nether](https://i.postimg.cc/9Fg48Crr/image.png)
 -
-- No Fog Fabric Mod for Minecraft 1.19-1.21.6
+- No Fog Fabric Mod for Minecraft
+- Fabric: 1.19-1.21.10
+- Forge: 1.21.5-1.21.9
+- -NeoForge: 1.21-1.21.10
 - No need for Fabric Api
 ### Download here on Modrinth: https://modrinth.com/mod/clear-fog
 
